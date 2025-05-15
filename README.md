@@ -12,9 +12,9 @@ Este projeto é uma simulação de um sistema bancário simples em C++, permitin
 ---
 
 ## 🧾 Estrutura do Projeto
-└── main.cpp # Ponto de entrada do programa  
-└── classes.h # Definição das classes Cliente e ContaBancaria  
-└── Makefile # Automação da compilação  
+└── **main.cpp** # Ponto de entrada do programa  
+└── **classes.h** # Definição das classes Cliente e ContaBancaria  
+└── **Makefile** # Automação da compilação  
 
 ## ⚙️ Como compilar
 Este projeto usa um Makefile simples. Para compilar, basta executar:
