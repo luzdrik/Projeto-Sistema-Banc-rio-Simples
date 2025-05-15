@@ -23,15 +23,15 @@ make
 ```
 
 ## Conceitos aplicados
-``Programação orientada a objetos
+*Programação orientada a objetos\
 
-``Encapsulamento e abstração
+``Encapsulamento e abstração\
 
-``Construtores com e sem valores padrão
+``Construtores com e sem valores padrão\
 
-``Sobrecarga de métodos (```bash transferir```)
+``Sobrecarga de métodos (```transferir```)\
 
-``Uso de Makefile para automação da compilação
+``Uso de ```Makefile``` para automação da compilação\
 
 
 ## Autor
