@@ -33,5 +33,5 @@ make
 
 <br>
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/169511919?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/luzdrik) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: |
 <br>
