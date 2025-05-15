@@ -1,4 +1,4 @@
-# Projeto: Sistema de Conta Bancária em C++
+# 🪙 Projeto: Sistema de Conta Bancária Simples em C++
 
 Este projeto é uma simulação de um sistema bancário simples em C++, permitindo operações como:
 
@@ -31,4 +31,7 @@ make
 
 ## Autor
 
+<br>
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/169511919?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/luzdrik) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+<br>
