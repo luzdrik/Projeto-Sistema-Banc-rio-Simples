@@ -35,7 +35,7 @@ make
 
 
 ## Autor
-
-Desenvolvido por **luzdrik**.
-
+<box>
 [![Minha foto do GitHub](https://github.com/luzdrik.png?size=100)](https://github.com/luzdrik)
+**luzdrik**
+<\box>
