@@ -23,19 +23,13 @@ make
 ```
 
 ## Conceitos aplicados
-*Programação orientada a objetos\
-
-``Encapsulamento e abstração\
-
-``Construtores com e sem valores padrão\
-
-``Sobrecarga de métodos (```transferir```)\
-
-``Uso de ```Makefile``` para automação da compilação\
-
+- Programação orientada a objetos  
+- Encapsulamento e abstração  
+- Construtores com e sem valores padrão  
+- Sobrecarga de métodos (```transferir```)  
+- Uso de ```Makefile``` para automação da compilação  
 
 ## Autor
-<box>
+
 [![Minha foto do GitHub](https://github.com/luzdrik.png?size=100)](https://github.com/luzdrik)
 **luzdrik**
-<\box>
