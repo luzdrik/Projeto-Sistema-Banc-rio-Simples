@@ -31,5 +31,4 @@ make
 
 ## Autor
 
-[![Minha foto do GitHub](https://github.com/luzdrik.png?size=100)](https://github.com/luzdrik)
-**luzdrik**
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/169511919?v=4" width=115><br><sub>Luiz Felipe</sub>](https://github.com/luzdrik) |
